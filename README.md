@@ -12,6 +12,7 @@
 - **EPUB**: [v1.0.0 다운로드](epub/코드-너머에서-에이전트-성적표까지-v1.0.0.epub)
 - **책 소개**: [BOOK.md](BOOK.md)
 - **발표 자료**: [1시간 발표용 슬라이드 45장](https://ksangki.github.io/beyond-code-to-scorecard/presentation/) · 원천 [deck/slides.py](deck/slides.py)
+- **오프닝 영상**: [60초 모션그래픽](https://ksangki.github.io/beyond-code-to-scorecard/media/opening.mp4) · 웹 버전 첫 화면에도 실려 있다
 
 ## 차례
 
